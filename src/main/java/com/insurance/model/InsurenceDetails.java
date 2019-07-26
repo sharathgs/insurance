@@ -21,5 +21,7 @@ public class InsurenceDetails {
 	private String idProofNumber;
 	private String vehicalno;
 	private String model;
+	private String can;
+	private String ika;
 	
 }
