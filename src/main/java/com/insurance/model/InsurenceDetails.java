@@ -17,5 +17,6 @@ public class InsurenceDetails {
 	private Long insuranceId;
 	private String vehicalno;
 	private String model;
+	private String insurenceperoid;
 	
 }
