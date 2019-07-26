@@ -15,7 +15,7 @@ public class InsurenceDetails {
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
 	private Long insuranceId;
-	private String vehicalno;
-	private String model;
+	private String name;
+	private String vihical model;
 	
 }
