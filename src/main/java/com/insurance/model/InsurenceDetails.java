@@ -17,5 +17,7 @@ public class InsurenceDetails {
 	private Long insuranceId;
 	private String address;
 	private String idProofNumber;
+	private String vehicalno;
+	private String model;
 	
 }
