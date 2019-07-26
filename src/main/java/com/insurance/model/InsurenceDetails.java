@@ -16,6 +16,5 @@ public class InsurenceDetails {
 	@GeneratedValue(strategy=GenerationType.AUTO)
 	private Long insuranceId;
 	private String customerName;
-	private String customerMobile;
 	
 }
